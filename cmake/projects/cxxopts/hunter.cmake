@@ -14,7 +14,6 @@ hunter_add_version(
     cxxopts
     VERSION
     2.0.0
-    URhttps://github.com/hunter-packages/cxxopts/archive/v2.0.0.tar.gzL
     "https://github.com/jarro2783/cxxopts/archive/v2.0.0.tar.gz"
     SHA1
     0466413a55646b7e7947bd0b8f602cb22f17dd23
