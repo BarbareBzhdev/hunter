@@ -13,6 +13,17 @@ hunter_add_version(
     PACKAGE_NAME
     cxxopts
     VERSION
+    2.0.0
+    URhttps://github.com/hunter-packages/cxxopts/archive/v2.0.0.tar.gzL
+    "https://github.com/jarro2783/cxxopts/archive/v2.0.0.tar.gz"
+    SHA1
+    0466413a55646b7e7947bd0b8f602cb22f17dd23
+)
+
+hunter_add_version(
+    PACKAGE_NAME
+    cxxopts
+    VERSION
     1.0.0-p0
     URL
     "https://github.com/hunter-packages/cxxopts/archive/v1.0.0-p0.tar.gz"
